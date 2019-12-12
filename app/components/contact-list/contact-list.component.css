@@ -1,0 +1,14 @@
+.title {
+    background: #a5a5a5;
+    padding: 2px 10px;
+    text-align: center;
+    margin: 5px 0px;
+    width: auto;
+    color: white;
+    display: inline-block;
+    font-weight: bold;
+}
+
+.list {
+    margin-left: 15px;
+}
